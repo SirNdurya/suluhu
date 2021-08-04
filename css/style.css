@@ -1,0 +1,23 @@
+.navbar-sul{
+    background: orange !important;
+}
+.sul1,.sul2{
+    color: #fff !important;
+}
+.link-sul{
+    transition: all .8s linear;
+    border-radius: 7px;
+
+}
+.link-sul:hover{
+    background: rgba(0,255,0,.5);
+}
+.link-sul2{
+transition: all .6s ease;
+}
+.link-sul2:hover{
+    border-bottom: 1px solid rgba(0,255,0,.5);
+    border-bottom-width: 5px;
+    
+    
+}
